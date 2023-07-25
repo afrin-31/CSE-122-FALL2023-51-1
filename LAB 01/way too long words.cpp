@@ -5,7 +5,7 @@ int main()
 {
     int n;
     char c[150];
-    cin>n;
+    cin>>n;
     for(int i=0;i<n;i++)
     {
         gets(c);
